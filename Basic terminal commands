@@ -1,0 +1,40 @@
+
+     
+    Solus Os Basic terminal commands 
+     
+     
+     add-repo (ar) - Add a repository
+              blame (bl) - Information about the package owner and release
+              build (bi) - Build eopkg packages
+                   check - Verify installation
+                   clean - Clean stale locks
+  configure-pending (cp) - Configure pending packages
+       delete-cache (dc) - Delete cache files
+              delta (dt) - Creates delta packages
+       disable-repo (dr) - Disable repository
+             emerge (em) - Build and install eopkg source packages from repository
+        enable-repo (er) - Enable repository
+              fetch (fc) - Fetch a package
+                help (?) - Prints help for given commands
+            history (hs) - History of pisi operations
+              index (ix) - Index eopkg files in a given directory
+                    info - Display package information
+            install (it) - Install eopkg packages
+     list-available (la) - List available packages in the repositories
+    list-components (lc) - List available components
+     list-installed (li) - Print the list of all installed packages
+        list-newest (ln) - List newest packages in the repositories
+       list-pending (lp) - List pending packages
+          list-repo (lr) - List repositories
+       list-sources (ls) - List available sources
+      list-upgrades (lu) - List packages to be upgraded
+        rebuild-db (rdb) - Rebuild Databases
+             remove (rm) - Remove eopkg packages
+        remove-repo (rr) - Remove repositories
+             search (sr) - Search packages
+        search-file (sf) - Search for a file
+        update-repo (ur) - Update repository databases
+            upgrade (up) - Upgrade eopkg packages
+
+
+
